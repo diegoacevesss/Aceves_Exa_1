@@ -7,7 +7,7 @@
 
 #include "MK64F12.h"
 #include "GPIO.h"
-#include "Bits.h"
+#include <sw3.h>
 
 static void (*gpio_C_callback)(void) = 0;
 static void (*gpio_A_callback)(void) = 0;

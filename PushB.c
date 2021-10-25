@@ -2,7 +2,7 @@
  * PushB.c
  *
  *  Created on: 23 oct 2021
- *      Author: diegoacevess & Alejandro Covarrubias
+ *      Author: diegoacevess
  */
 
 #include "PushB.h"

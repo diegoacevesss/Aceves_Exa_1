@@ -2,7 +2,7 @@
  * PushB.h
  *
  *  Created on: 23 oct 2021
- *      Author: diegoacevess & Alejandro Covarrubias
+ *      Author: diegoacevess
  */
 
 #ifndef PUSHB_H_
@@ -12,7 +12,6 @@
 #include <stdint.h>
 #include "MK64F12.h"
 #include "PIT.h"
-#include "Bits.h"
 #include "GPIO.h"
 
 
@@ -30,3 +29,4 @@ uint8_t next_freq2(void);
 
 
 #endif /* PUSHB_H_ */
+

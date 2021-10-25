@@ -134,3 +134,4 @@ void NVIC_enable_interrupt_and_priotity(interrupt_t interrupt_number, priority_l
 void NVIC_set_basepri_threshold(priority_level_t priority);
 
 #endif /* NVIC_H_ */
+>>>>>>> 5fb1fbaa11e372dbabbd97e4711405197da3684e

@@ -227,3 +227,4 @@ void GPIO_clear_pin(gpio_port_name_t port_name, uint8_t pin);
 void GPIO_toogle_pin(gpio_port_name_t port_name, uint8_t pin);
 
 #endif /* GPIO_H_ */
+>>>>>>> 5fb1fbaa11e372dbabbd97e4711405197da3684e
